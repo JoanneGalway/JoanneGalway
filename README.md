@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JoanneGalway/JoanneGalway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as Cyber Security Education @HPE
 - 🌱 I’m currently gaining a Masters in eLearning Design & Development @CIT
 - 💬 Ask me about Awareness & Training, Cyber Security, Women in Security
