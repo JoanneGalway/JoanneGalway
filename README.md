@@ -7,7 +7,7 @@
 - 📫 How to reach me: here! or twitter @JoanneO_Connor
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was nominated as one of the Top 50 Women in Security in Europe by SC Magazine in 2019!
---⚡In the lst year I have worked in developing the new cyber ireland website, including designing the course finder for people looking to find a course to get into cyber     security in Ireland https://www.cyberireland.ie/course-finder/
+ 
 - ⚡I frequently speak on various webinars, podacsts and print interviews
 
   Webinars:
