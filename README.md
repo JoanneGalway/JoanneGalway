@@ -29,7 +29,7 @@
   -I have a passion for D&I initiatives!
   - Expectant Mother Parking: https://twitter.com/JoanneO_Connor/status/1222890142899363841
   - Development of Returnship @HPE: https://twitter.com/ITAG_Technology/status/1128276208142168065
-    -YouTube Promo Video Feature: https://www.youtube.com/watch?v=aCpscAGjWJA&feature=youtu.be
+    -[youtube] YouTube Promo Video Feature: https://www.youtube.com/watch?v=aCpscAGjWJA&feature=youtu.be
    - Represent ECSO Women4Cyber Initiative: https://twitter.com/ecso_eu/status/1068179214317293568
     
  Mentor:
