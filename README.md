@@ -29,11 +29,11 @@
   -I have a passion for D&I initiatives!
   - Expectant Mother Parking: https://twitter.com/JoanneO_Connor/status/1222890142899363841
   - Development of Returnship @HPE: https://twitter.com/ITAG_Technology/status/1128276208142168065
-    [youtube] : YouTube Promo Video Feature: https://www.youtube.com/watch?v=aCpscAGjWJA&feature=youtu.be
+  - YouTube Promo Video Feature: https://www.youtube.com/watch?v=aCpscAGjWJA&feature=youtu.be
    - Represent ECSO Women4Cyber Initiative: https://twitter.com/ecso_eu/status/1068179214317293568
     
  Mentor:
   - OPEN IDEO - Cyber Visuals Challenge mentor 2019: https://www.openideo.com/people-bio/cybersecurity-mentors-17
   - Lost Summer Virtual Internship 2020: https://twitter.com/JoanneO_Connor/status/1291279348679483393
   
-  [youtube][youtube] **/**
+  [youtube] :
