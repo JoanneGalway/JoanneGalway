@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-[twitter]: https://twitter.com/joanneo_connor?lang=en
+[twitter][twitter] **/**
+[twitter]: https://twitter.com/joanneo_connor
 
 - 🔭 I’m currently working as Cyber Security Education @HPE
 - 🌱 I’m currently gaining a Masters in eLearning Design & Development @CIT
