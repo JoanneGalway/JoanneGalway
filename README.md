@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[twitter]: https://twitter.com/joanneo_connor?lang=en
+
 - 🔭 I’m currently working as Cyber Security Education @HPE
 - 🌱 I’m currently gaining a Masters in eLearning Design & Development @CIT
 - 💬 Ask me about Awareness & Training, Cyber Security, Women in Security
@@ -35,5 +37,4 @@
  Mentor:
   - OPEN IDEO - Cyber Visuals Challenge mentor 2019: https://www.openideo.com/people-bio/cybersecurity-mentors-17
   - Lost Summer Virtual Internship 2020: https://twitter.com/JoanneO_Connor/status/1291279348679483393
-  
-  [youtube] :
+ 
