@@ -17,11 +17,11 @@ Here are some ideas to get you started:
   - Webinars:
      -Human Element: https://www.cyberireland.ie/podcast-cyber-security-and-the-workforce-of-the-future-the-human-element/
      -Women in Tech/Cyber: https://twitter.com/VOICES_Action/status/1281625673703075840
-     -Volunteer for Virtual Internships: https://twitter.com/JoanneO_Connor/status/1291279348679483393
   - Podcasts:
      -Security in the West of Ireland, Returnhsips & the Talent pipeline - https://soundcloud.com/itag-podcast/scott-dolin-joanne-oconnor-hpe-cybersecurity-part-1
      -Women in Security Podcast, Cyber Ireland Schools Academy & why galway is great! https://podcasts.apple.com/ie/podcast/s2e2-joanne-oconnor-on-cyber-ireland-cyber-women-ireland/id1468319978?i=1000463847857
   - Articles:
+    -Sunday Business Post: https://twitter.com/JoanneO_Connor/status/1135201693593985024
     -Silicon Republic: Global Shortage of Cyber Security People: https://www.siliconrepublic.com/enterprise/joanne-oconnor-hpe-cybersecurity-galway
     -Irish Cyber Security Coast: https://www.siliconrepublic.com/enterprise/cybersecurity-ireland-galway-shannon-companies
     -West Coast Coolest Influencers: https://www.siliconrepublic.com/companies/galway-science-technology-influencers-west-ireland
@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 D&I:
 - have a passion for D&I initiatives!
   - Expectant Mother Parking: https://twitter.com/JoanneO_Connor/status/1222890142899363841
+  - Development of Returnship @HPE: https://twitter.com/ITAG_Technology/status/1128276208142168065
+    -YouTube Promo Video Feature: https://www.youtube.com/watch?v=aCpscAGjWJA&feature=youtu.be
+ Mentor:
+  - OPEN IDEO - Cyber Visuals Challenge mentor 2019: https://www.openideo.com/people-bio/cybersecurity-mentors-17
+  - Lost Summer Virtual Internship 2020: https://twitter.com/JoanneO_Connor/status/1291279348679483393
