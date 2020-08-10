@@ -21,7 +21,7 @@
      -Women in Security Podcast, Cyber Ireland Schools Academy & why galway is great! https://podcasts.apple.com/ie/podcast/s2e2-joanne-oconnor-on-cyber-ireland-cyber-women-ireland/id1468319978?i=1000463847857
      
   Articles
-  I have  gladly participated and chatted in print and online articles:
+  I have  gladly participated and chatted in (Print and online)
     -Sunday Business Post: https://twitter.com/JoanneO_Connor/status/1135201693593985024
     -Silicon Republic: Global Shortage of Cyber Security People: https://www.siliconrepublic.com/enterprise/joanne-oconnor-hpe-cybersecurity-galway
     -Irish Cyber Security Coast: https://www.siliconrepublic.com/enterprise/cybersecurity-ireland-galway-shannon-companies
